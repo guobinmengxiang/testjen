@@ -12,7 +12,7 @@ class JentApplicationTests {
 @Test
     public  void testAdd(){
         int mum=testService.test(2,6);
-        assert mum==6;
+        assert mum==8;
         System.out.println("hehehe");
     }
 
